@@ -1,4 +1,4 @@
-# seokkit
+# seok
 
 **Vite + React + TypeScript** 기반 템플릿
 
