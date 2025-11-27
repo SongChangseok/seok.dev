@@ -10,7 +10,7 @@ const Home = () => {
         {/* Header */}
         <div className="mb-12 text-center pt-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            seokkit.dev
+            seok.dev
           </h1>
           <p className="text-lg text-gray-600">다양한 도구를 한곳에서</p>
         </div>
